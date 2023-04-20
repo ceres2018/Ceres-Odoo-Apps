@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_custom_placeholder_color_custom_placeholder_color,custom_placeholder_color.custom_placeholder_color,model_custom_placeholder_color_custom_placeholder_color,base.group_user,1,1,1,1

@@ -1,0 +1,9 @@
+:root{-bs-gray-300:#52595D;
+}
+::placeholder{
+ color:#52595D;
+}
+
+.o_required_modifier .o_input{
+    border-bottom :2px solid $o-main-text-color !important;
+}
