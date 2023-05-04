@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Custom Placeholder Color",
+    "name": "Custom Placeholder Highlight",
 
     "summary": """
         This Module Allows you to Placeholder Font Color Brighter in Odoo v16.""",
