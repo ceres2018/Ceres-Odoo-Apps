@@ -21,7 +21,7 @@
 
     # any module necessary for this one to work correctly
     "depends": ["base"],
-    "images":["static/description/placeholder.jpeg"],
+    "images":["static/description/ceres_new.png"],
     # always loaded
     "data": [
         # "security/ir.model.access.csv",
